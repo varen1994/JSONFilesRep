@@ -1,6 +1,6 @@
 {
 	"data": [{
-		"id": 5,
+		"id": 100,
 		"name": "AppStore JSON APIs",
 		"link": "https://www.letsbuildthatapp.com/course/AppStore-JSON-APIs",
 		"imageUrl": "https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/fd78be85-b845-4672-a316-7df0abe80812",
@@ -25,7 +25,7 @@
 		"number_of_lessons": 39
 	}, {
 		"id": 3,
-		"name": null,
+		"name": "Intermediate Training Core Data",
 		"link": "https://www.letsbuildthatapp.com/course/intermediate-training-core-data",
 		"imageUrl": "https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/0736fecb-5b88-483b-a83d-ca2a5a6d93f9",
 		"number_of_lessons": 32
